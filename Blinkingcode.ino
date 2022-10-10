@@ -1,3 +1,5 @@
+//Joseph Szlavik push edit
+
 //Setting up i/o
 void setup() {
   pinMode(6, OUTPUT);
