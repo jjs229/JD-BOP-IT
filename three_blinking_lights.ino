@@ -1,4 +1,5 @@
 //Homework 14 - Edit by J. Kent Wirant
+//Homework 14 - Edit by Paul Kyros
 
 void setup() {
   //Setting up I/O
