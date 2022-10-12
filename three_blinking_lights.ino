@@ -1,3 +1,5 @@
+//Homework 14 - Edit by J. Kent Wirant
+
 void setup() {
   //Setting up I/O
   pinMode(6, OUTPUT);
